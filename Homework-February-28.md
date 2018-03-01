@@ -23,7 +23,7 @@
 - Push to github
 
 - Bonus: add classes/ids to your tags and try seeing if you can implement bootstrap into your html. 
-    - HINT** your bootstrap CDN or link will go in your "<head>" tag in html 
+    - HINT** your bootstrap CDN or link will go in your <head> tag in html 
 
 ### 3 style.css
 
