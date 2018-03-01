@@ -12,6 +12,10 @@
 
 * pwd - finding the path to your directory
 
+* mkdir - create a new directory
+
+* touch - create a new file
+
 ### Git Commands
 
 * git clone <link> - cloning your repository
