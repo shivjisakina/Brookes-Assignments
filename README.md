@@ -14,6 +14,8 @@
 
 ### Git Commands
 
+* git clone <link> - cloning your repository
+
 * git status - see what files are tracked/untracked 
 
 * git add ( . for all or your file name) 
