@@ -21,7 +21,7 @@
 
 ## Adding it to the page using jQuery
 
-    * Take a look at line 16 in my index.html and line 23 of my app.js
+    * Take a look at line 16 in my index.html and line 25 of my app.js
     * You will need to add the jQuery CDN to your html (index.html line 16) or you can get it from the bootstrap website
     * Using the .text() method, add your constructor values to the page. You can create a seperate html tag or just add it to the body.
 
