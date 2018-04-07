@@ -19,7 +19,7 @@
     * Add a function to combine 2+ parts of your constructor into a string
     * Console log your new string function
 
-## Adding it to the page using jQuery
+## **BONUS** Adding it to the page using jQuery
 
     * Take a look at line 16 in my index.html and line 25 of my app.js
     * You will need to add the jQuery CDN to your html (index.html line 16) or you can get it from the bootstrap website
