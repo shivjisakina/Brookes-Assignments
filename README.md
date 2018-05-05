@@ -27,3 +27,13 @@
 * git commit -m" " - commiting to github with a message
 
 * git push - pushing to your github repo
+
+### Github Pages
+
+* Go to 'Settings' under your repo
+
+* Scroll down to 'Github Pages'
+
+* Select your master branch
+
+* Click on your link!
