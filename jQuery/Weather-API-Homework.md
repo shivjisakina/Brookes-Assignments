@@ -17,6 +17,7 @@
     - If you finish the tasks above, you can also finish sending the Sunrise and Sunset times HTML
     - Using the .append() jQuery method, append your sunrise and sunset variables to your "NYCWeather" class in HTML
 
-    (Example using temperature: $(".NYCWeather").append("<div> Temperature: "+weather[i].mintempF +"-"+ weather[i].maxtempF+"</div>"))
+    Example using temperature: 
+    - $(".NYCWeather").append("<div> Temperature: "+weather[i].mintempF +"-"+ weather[i].maxtempF+"</div>")
 
 Let me know if you have any questions, good luck :)
