@@ -19,5 +19,15 @@
 
     Example using temperature: 
     - $(".NYCWeather").append("<div> Temperature: "+weather[i].mintempF +"-"+ weather[i].maxtempF+"</div>")
+    
+#Homework for 11-11
+
+1) Using the .append() jQuery method, append your sunrise and sunset variables to your "NYCWeather" class in HTML
+
+    (Example using temperature: $(".NYCWeather").append("<div> Temperature: "+weather[i].mintempF +"-"+ weather[i].maxtempF+"</div>"))
+
+2) Using either bootstrap of CSS, style the temperature and sunrise-sunset on your page
+
+3) Finish up any overall CSS styling and make sure the app is ready to go!
 
 Let me know if you have any questions, good luck :)
