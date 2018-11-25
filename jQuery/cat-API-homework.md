@@ -11,4 +11,7 @@
     - Add a text box using bootstrap
     - Replace the limit=10 in your API url to what the user puts in the textbox
     
+    
+**Bonus: Add css and style your page!
+    
 Let me know if you need any help :)
